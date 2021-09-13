@@ -1,0 +1,20 @@
+/* header section additional css */
+
+.background-color{
+    background-color: #264653!important;
+}
+
+/* fetured bikes 2021 grayscale style */
+
+.grayscale{
+    filter: grayscale(100);
+}
+.grayscale:hover{
+    filter: grayscale(0);
+}
+
+/* clients rating  */
+
+.rating{
+    color:#ffc107;
+}
